@@ -850,3 +850,19 @@
     background: linear-gradient(to left, #dc91dbbb 1px, #dc91db77 1px, #dc91db77 );
 }
 
+.ace_paren.ace_keyword.ace_operator {
+	color: #FFFFFF;
+}
+.ace_punctuation.ace_keyword.ace_operator {
+	color: #A6ACB9;
+}
+
+.ace_bracket.ace_start {
+	border-bottom: 1.5px solid #F9AE58 !important;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	background: none;
+	border-right: none !important;
+	border-left: none !important;
+	border-top: none !important;
+}
