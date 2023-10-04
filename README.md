@@ -10,14 +10,17 @@ The `rstheme` file was created using `rstudioapi::convertTheme("mariana.thTheme"
 
 ## Sublime Text 3
 
-<img width="430" alt="image" src="https://github.com/msberends/mariana/assets/31037261/faea0daa-0fd1-47c0-bdee-0628b7c1fca8">
+<img width="450" alt="image" src="https://github.com/msberends/mariana/assets/31037261/894bcf31-9a5c-41e4-9913-7f0a7f6a1bfa">
 
 
 ## RStudio
 
-<img width="475" alt="image" src="https://github.com/msberends/mariana/assets/31037261/ddc7fee5-78cf-42a6-a8af-c747928d02c4">
+<img width="450" alt="image" src="https://github.com/msberends/mariana/assets/31037261/78f347df-b79e-4a78-9399-7b50a055480b">
 
 
-Install using the Tools menu:
+#### Install
 
-<img width="631" alt="image" src="https://github.com/msberends/mariana/assets/31037261/4f5229f0-d01e-4a2e-b196-d326b2b9912a">
+Install using the Tools menu in RStudio:
+
+<img width="624" alt="image" src="https://github.com/msberends/mariana/assets/31037261/70771d9f-f198-4f35-8745-874b0307498a">
+
